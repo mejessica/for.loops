@@ -1,6 +1,6 @@
 
 
-public class exercicio6 {
+public class exercicio2 {
 	public static void main(String[] args) {
 		
 			double ze = 1.1;
