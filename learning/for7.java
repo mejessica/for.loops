@@ -1,4 +1,3 @@
-package For;
 
 public class for7{ 
     public static void main(String[] args){
