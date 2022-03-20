@@ -1,4 +1,4 @@
-package exc1;
+
 
 public class exercicio6 {
 
